@@ -84,9 +84,6 @@ The supplemental data will be used to help correctly identify and map the latitu
 Copies of data files can also be found in this Google Drive Folder:
 https://drive.google.com/drive/folders/18uvcAZUd4xN8FQJJ_QcAjVAANQZ07ZVn?usp=drive_link
 
-This folder contains the ipynb notebooks, zipped supplemental datasets (in sub-folder "Source Data Files"), and csv output files from restaurant analysis (in sub-folder "Notebook Output CSV Files"). Csv files can be used to replicate notebook results if needed.
-
-
 ## NOTEBOOKS:
 Make sure you have downloaded the given notebooks in the same local folder as the data files, and run them from that folder, in numerical sequence:
 1-EDA.ipynb
@@ -118,6 +115,10 @@ Compares Clusters and digs into individual cluster details. Notebook will output
 ## DOCUMENTATION
 
 Documentation.pdf - this document is provided with step-by-step examples of how to use the notebooks to analyze a different subset of businesses. It includes screenshots - examples of Python code cells where updates are needed, notebook outputs, and folder contents.
+
+## CSV FILES
+
+The folder output_csv_files contains csv output files from restaurant analysis. Csv files can be used to replicate notebook results if needed.
 
 ## REFERENCES
 
