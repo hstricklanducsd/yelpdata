@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+pyspark==3.5.0
+jsonlib==1.6.1
+Pillow==10.3.0
+geopandas==0.14.4
+gdal==3.3.3
